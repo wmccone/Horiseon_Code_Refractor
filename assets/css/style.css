@@ -38,7 +38,6 @@ h4 {
     font-size: 20px;
 }
 
-
 /* <--! This will style the logo and header at the top of the page--> */
 header {
     padding: 20px;
@@ -52,7 +51,6 @@ header {
 h1 .seo {
     color: #d9dcd6;
 }
-
 
 /* <--! This will style the navigation links in the header--> */
 nav {
@@ -95,7 +93,6 @@ main {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 
 .content img {
     max-height: 200px;
