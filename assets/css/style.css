@@ -6,6 +6,7 @@
 /* <--! These are the general styles on the page--> */
 body {
     background-color: #d9dcd6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 
@@ -91,7 +92,6 @@ main {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -119,7 +119,6 @@ aside {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
